@@ -1,22 +1,4 @@
-# Nabu - An Offline Note Taking App
-
-<a href="https://apt.izzysoft.de/fdroid/index/apk/com.jpkhawam.nabu"><img src="https://github.com/jpkhawam/Nabu/blob/main/assets/IzzyOnDroid.png" width="300px"></a>
-
-### Note: still in development! Any contributions are welcome :)
----
-
-Nabu is a simple note taking app, focused on looking as modern as possible, without a trade-off of features. 
-
-This app has a great priority for accessibility before all, so if there is anything lacking on that front please submit an issue. So far, font size can be set to x1, x1.5 and x2, and the font family can be changed to a dyslexia friendly font (opendyslexic). I also made sure to label everything so screen readers have a better time, and will try to translate the app as much as I can.
-
-Feel free to try it out and let me know what is missing or not working! Pull requests and issues are most welcome.
-
-# Roadmap
-- [ ] Pinning notes
-- [ ] Adding reminders
-- [ ] New colors and themes
-- [ ] More translations
-
+# KYOBOTES
 # Screenshots
 
 ### First Launch
